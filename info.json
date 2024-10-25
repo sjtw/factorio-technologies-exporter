@@ -5,5 +5,5 @@
     "author": "sinzah",
     "description": "Export Researched technologies - e.g for import into FactorioLab",
      "dependencies": [],
-     "factorio_version": "1.1"
+     "factorio_version": "2.0"
   }
