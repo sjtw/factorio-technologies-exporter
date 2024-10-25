@@ -1,6 +1,6 @@
 {
     "name": "export-researched-technologies",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Export Researched Technologies",
     "author": "sinzah",
     "description": "Export Researched technologies - e.g for import into FactorioLab",
